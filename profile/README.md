@@ -24,7 +24,7 @@ maintainable, expressive, and performance-aware game code.
 
 ## Featured Projects
 
-### FrontierQuest 
+### Frontier Quest 
 - Scalable gameplay architecture using state machines and OOP
 - Reusable combat, movement, and interaction systems
 - Focus on maintainable code and memory-efficient design
