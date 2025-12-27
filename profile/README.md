@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FireBomb-game-development/.github/main/profile/banner.png" alt="FireBomb Game Development" width="100%">
+  <img src="./banner.png" alt="FireBomb Game Development" width="100%">
 </p>
 
 <h1 align="center">FireBomb Game Development</h1>
 
 <p align="center">
-  Indie Unity game development studio focused on solid gameplay systems,
+  A collection of solo Unity game development projects focused on gameplay systems,
   clean architecture, and performance-aware design.
 </p>
 
