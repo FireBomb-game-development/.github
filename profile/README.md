@@ -7,11 +7,12 @@
 <p align="center">
  A collection of Unity game development projects focused on building clean,
 scalable gameplay systems with strong architectural foundations.
-
+</p>
+<p align="center">
 Emphasis on state machines, modular design, and data-driven flows to create
 maintainable, expressive, and performance-aware game code.
-
 </p>
+
 
 <p align="center">
   <a href="https://github.com/FireBomb-game-development">Game Dev Repos</a> •
