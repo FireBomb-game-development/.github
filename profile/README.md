@@ -23,17 +23,17 @@ maintainable, expressive, and performance-aware game code.
 
 ## Featured Projects
 
-### FrontierQuest (Unity 2D RPG)
+### FrontierQuest 
 - Scalable gameplay architecture using state machines and OOP
 - Reusable combat, movement, and interaction systems
 - Focus on maintainable code and memory-efficient design
 
-### Timeless World (Unity)
+### Timeless World 
 - Top-down roguelike / speedrun-style prototype
 - Time-based core mechanic (time replaces health)
 - Gameplay pacing, risk-reward decisions, and progression systems
 
-### Pokémon-Style Prototype (Unity)
+### Pokémon-Style Prototype 
 - Turn-based combat prototyping
 - Reusable components and structured gameplay logic
 
