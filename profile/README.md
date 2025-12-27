@@ -5,8 +5,12 @@
 <h1 align="center">FireBomb Game Development</h1>
 
 <p align="center">
-  A collection of solo Unity game development projects focused on gameplay systems,
-  clean architecture, and performance-aware design.
+ A collection of Unity game development projects focused on building clean,
+scalable gameplay systems with strong architectural foundations.
+
+Emphasis on state machines, modular design, and data-driven flows to create
+maintainable, expressive, and performance-aware game code.
+
 </p>
 
 <p align="center">
